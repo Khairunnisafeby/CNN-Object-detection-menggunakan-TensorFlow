@@ -1,0 +1,10 @@
+1. install python, PyCharms dan TensorFlow terlebih dahulu.
+2. crawling dataset.
+2. buatlah project ini dalam 1 folder khusus bernama "tes mata"
+   dimana didalamnya terdapat 2 syntax yaitu: test_network.py & train_network.py
+3. didalam folder "tes mata", buat juga 2 folder lagi:
+	- folder "images" (berisi dataset), subfolder:
+		- kategori A
+		- kategori B
+		- Data tes
+	- folder "pyobjectsearch" (berisi model yang akan digunakan leNet.py).
