@@ -1,0 +1,7 @@
+1. Membuat model terlebih dahulu dan simpan dengan ekstensi python.  
+   Pada penelitian ini saya membuat dengan menggunkan model LeNet.
+   (lenet.py)
+2. Membuat train_network.py
+3. Membuat test_network.py
+4. Terakhir, lakukan eksekusi program pada anaconda prompt 
+   (lihat file 3.eksekusi program)
