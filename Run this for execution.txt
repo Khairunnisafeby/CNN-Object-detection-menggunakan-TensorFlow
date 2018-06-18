@@ -1,0 +1,14 @@
+buka anaconda prompt yang sudah ter-install tensorflow dan ketik:
+> activate tensorflow
+> E: "...(direktori drives tergantung dimana folder anda disimpan)..."
+> cd "...(direktori dimana folder dataset anda disimpan)..."
+> python train_network.py -d "...(nama folder dengan isi dataset)..." -m (nama model yang akan anda buat)
+> python test_network.py -m "...(nama model yang anda buat tadi)..." -i images/example/katarakkk.jpg (...ketik secara rinci dari folder-nama-dataset/folder-data-test/data)..."
+
+example:
+> activate tensorflow
+> E:
+> cd "tes mata"
+> python train_network.py -d images -m khairunnisafeby_100
+> python test_network.py -m khairunnisafeby_100 -i images/example/iritasi5.jpg
+
